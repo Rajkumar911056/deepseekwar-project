@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   app:
-    image: vikram143256/javaauto:version1
+    image: rajkumar8897/mynewrepo:javaapplication
     ports:
       - "8080:8080"
     deploy:
